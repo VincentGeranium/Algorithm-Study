@@ -12,7 +12,7 @@
 ## Algorithm-Study Contents
 - 아래의 링크를 누르시면 알고리즘 공부하고 정리한 코드를 확인 할 수 있는 리포지토리로 이동합니다.
 
-[Algorithm Study](./Algorithm-Practice)
+[Algorithm Study](./Algorithm-Practice/README.md)
 
 ---
 ## Contact
