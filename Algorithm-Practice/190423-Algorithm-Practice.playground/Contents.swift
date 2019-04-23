@@ -33,5 +33,7 @@ func solution(_ s:String) -> String {
     return returnValue
 }
 
-//solution("abc")
+solution("abc")
 solution("abde")
+
+
