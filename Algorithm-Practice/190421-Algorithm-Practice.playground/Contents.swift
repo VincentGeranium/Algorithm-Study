@@ -64,3 +64,7 @@ func solution(_ a:Int, _ b:Int) -> String {
 }
 
 solution(3, 30)
+
+3 % 7
+14 % 7
+6 % 7
