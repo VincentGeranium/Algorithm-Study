@@ -25,7 +25,7 @@ func solution(_ x:Int, _ n:Int) -> [Int64] {
         
         answer?.append(tempAnswer)
         
-        print(answer)
+        print(answer ?? "")
     }
     
     guard let returnAnswer = answer else {
