@@ -6,3 +6,4 @@
 - [190423 - 가운데 글자 가져오기](./190423-Algorithm-Practice.playground)
 - [190810 - x만큼 간격이 있는 n개의 숫자](./190810-Algorithm-Practice.playground)
 - [190820 - 나누어 떨어지는 숫자 배열](./190820-Algorithm-Practice.playground)
+- [190821 - 문자열을 정수로 바꾸기](./190821-Algorithm-Practice.playground)
