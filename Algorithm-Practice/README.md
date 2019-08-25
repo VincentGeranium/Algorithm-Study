@@ -8,3 +8,4 @@
 - [190820 - 나누어 떨어지는 숫자 배열](./190820-Algorithm-Practice.playground)
 - [190821 - 문자열을 정수로 바꾸기](./190821-Algorithm-Practice.playground)
 - [190822 - 약수의 합](./190822-Algorithm-Practice.playground)
+- [190825 - 수박수박수](./190825-Algorithm-Practice.playground)
