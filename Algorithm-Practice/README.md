@@ -10,6 +10,10 @@
 - [190822 - 약수의 합](./190822-Algorithm-Practice.playground)
 - [190825 - 수박수박수](./190825-Algorithm-Practice.playground)
 - [190903 - 내 마음대로 문자열 정렬하기](./190903-Algorithm-Practice.playground)
+- [200604 - 백준 온라인 저지 문제 : 10171번(고양이)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-04-Algorithm-Practice.playground)
+- [200606 - 프로그래머스 알고리즘 문제 : 문자열 내림차순으로 배치하기](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-06-Algorithm-Practice-2.playground)
+- [200606 - 백준 온라인 저지 문제 : 10172번(개)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-06-Algorithm-Practice.playground)
+- [200608 - 프로그래머스 알고리즘 문제 : 서울에서 김서방 찾기](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-07-Algorithm-Practice-1.playground)
 
 - - -
 - - -
@@ -18,4 +22,5 @@
 
 #### 아래의 제목을 누르시면 알고리즘 문제 풀이가 된 블로그 글로 이동합니다.
 
-- [200604 - 백준 온라인 저지 10171번(고양이) 문제](https://vincentgeranium.github.io/ios,/swift/2020/06/04/baek-joon-1.html)
+- [200604 - 백준 온라인 저지 문제 : 10171번(고양이)](https://vincentgeranium.github.io/ios,/swift/2020/06/04/baek-joon-1.html)
+- [200608 - 프로그래머스 알고리즘 문제 : 서울에서 김서방 찾기](https://vincentgeranium.github.io/ios,/swift/2020/06/08/Algorithm-Summary-1.html)
