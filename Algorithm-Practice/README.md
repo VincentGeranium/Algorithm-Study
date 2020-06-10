@@ -25,4 +25,4 @@
 
 - [200604 - 백준 온라인 저지 문제 : 10171번(고양이)](https://vincentgeranium.github.io/ios,/swift/2020/06/04/baek-joon-1.html)
 - [200608 - 프로그래머스 알고리즘 문제 : 서울에서 김서방 찾기](https://vincentgeranium.github.io/ios,/swift/2020/06/08/Algorithm-Summary-1.html)
-- [200610 - 백준 온라인 저지 문제 : 1000번(A + B)]()
+- [200610 - 백준 온라인 저지 문제 : 1000번(A + B)](https://vincentgeranium.github.io/ios,/swift/2020/06/10/Algorithm-Summary-1.html)
