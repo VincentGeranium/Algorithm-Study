@@ -29,4 +29,4 @@
 - [200608 - 프로그래머스 알고리즘 문제 : 서울에서 김서방 찾기](https://vincentgeranium.github.io/ios,/swift/2020/06/08/Algorithm-Summary-1.html)
 - [200610 - 백준 온라인 저지 문제 : 1000번(A + B)](https://vincentgeranium.github.io/ios,/swift/2020/06/10/Algorithm-Summary-1.html)
 - [200611 - 백준 온라인 저지 문제 : 1001번(A - B)](https://vincentgeranium.github.io/ios,/swift/2020/06/11/Algorithm-Summary-1.html)
-- [200611 - 백준 온라인 저지 문제 : 10998번(A * B)(https://vincentgeranium.github.io/ios,/swift/2020/06/11/Algorithm-Summary-2.html)
+- [200611 - 백준 온라인 저지 문제 : 10998번(A * B)](https://vincentgeranium.github.io/ios,/swift/2020/06/11/Algorithm-Summary-2.html)
