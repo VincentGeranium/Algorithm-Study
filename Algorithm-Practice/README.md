@@ -18,6 +18,7 @@
 - [200611 - 백준 온라인 저지 문제 : 1001번(A - B)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-11-Algorithm-Practice-1)
 - [200611 - 백준 온라인 저지 문제 : 10998번(A * B)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-11-Algorithm-Practice-2)
 - [200616 - 백준 온라인 저지 문제 : 1008번(A / B)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-16-Algorithm-Practice-1)
+- [200617 - 백준 온라인 저지 문제 : 10869번(사칙연산)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-17-Algorithm-Practice-1)
 
 - - -
 - - -
