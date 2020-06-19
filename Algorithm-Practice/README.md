@@ -34,3 +34,7 @@
 - [200610 - 백준 온라인 저지 문제 : 1000번(A + B)](https://vincentgeranium.github.io/ios,/swift/2020/06/10/Algorithm-Summary-1.html)
 - [200611 - 백준 온라인 저지 문제 : 1001번(A - B)](https://vincentgeranium.github.io/ios,/swift/2020/06/11/Algorithm-Summary-1.html)
 - [200611 - 백준 온라인 저지 문제 : 10998번(A * B)](https://vincentgeranium.github.io/ios,/swift/2020/06/11/Algorithm-Summary-2.html)
+- [200616 - 백준 온라인 저지 문제 : 1008번(A / B)](https://vincentgeranium.github.io/ios,/swift/2020/06/19/Algorithm-Summary-1.html)
+
+- - -
+- - -
