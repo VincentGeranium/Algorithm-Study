@@ -21,6 +21,7 @@
 - [200617 - 백준 온라인 저지 문제 : 10869번(사칙연산)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-17-Algorithm-Practice-1)
 - [200618 - 백준 온라인 저지 문제 : 10430번(나머지)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-18-Algorithm-Practice-1)
 - [200619 - 백준 온라인 저지 문제 : 2588번(곱셈)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-19-Algorithm-Practice-1)
+- [200621 - 백준 온라인 저지 문제 : 1330번(두 수 비교하기)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-21-Algorithm-Practice-1)
 
 - - -
 - - -
