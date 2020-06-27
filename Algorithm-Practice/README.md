@@ -24,6 +24,7 @@
 - [200621 - 백준 온라인 저지 문제 : 1330번(두 수 비교하기)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-21-Algorithm-Practice-1)
 - [200624 - 백준 온라인 저지 문제 : 9498번(시험 성적)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-24-Algorithm-Practice-1)
 - [200627 - 백준 온라인 저지 문제 : 2753번(윤년)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-27-Algorithm-Practice-1)
+- [200627 - 백준 온라인 저지 문제 : 14681번(사분면 고르기)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-27-Algorithm-Practice-2)
 
 - - -
 - - -
