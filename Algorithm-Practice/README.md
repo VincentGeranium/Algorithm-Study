@@ -25,6 +25,7 @@
 - [200624 - 백준 온라인 저지 문제 : 9498번(시험 성적)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-24-Algorithm-Practice-1)
 - [200627 - 백준 온라인 저지 문제 : 2753번(윤년)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-27-Algorithm-Practice-1)
 - [200627 - 백준 온라인 저지 문제 : 14681번(사분면 고르기)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-27-Algorithm-Practice-2)
+- [200630 - 백준 온라인 저지 문제 : 2884번(알람 시계)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-06-30-Algorithm-Practice-1)
 
 - - -
 - - -
