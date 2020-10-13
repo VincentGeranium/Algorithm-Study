@@ -30,6 +30,7 @@
 - [200702 - 백준 온라인 저지 문제 : 10950번(A+B - 3)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-07-02-Algorithm-Practice-1)
 - [200703 - 백준 온라인 저지 문제 : 8393번(합)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-07-03-Algorithm-Practice-1)
 - [201009 - 백준 온라인 저지 문제 : 2741(N찍기)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-10-09-Algorithm-Practice-1)
+- [201014 - 백준 온라인 저지 문제 : 2742(기찍N)](https://github.com/VincentGeranium/Algorithm-Study/tree/master/Algorithm-Practice/2020-10-14-Algorithm-Practice-1)
 
 - - -
 - - -
