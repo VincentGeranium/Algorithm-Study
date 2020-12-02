@@ -36,6 +36,7 @@
 - [201103 - 백준 온라인 저지 문제 : 2438번(별찍기 - 1)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-11-03-Algorithm-Practice-1/2020-11-03-Algorithm-Practice-1/main.swift)
 - [201104 - 백준 온라인 저지 문제 : 2439번(별찍기 - 2)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-11-03-Algorithm-Practice-2/2020-11-03-Algorithm-Practice-2/main.swift)
 - [201111 - 백준 온라인 저지 문제 : 10871번(X보다 작은 수)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-11-05-Algorithm-Practice-1/2020-11-05-Algorithm-Practice-1/main.swift)
+- [201202 - 백준 온라인 저지 문제 : 10952번(A+B - 5)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-02-Algorithm-Practice-1/2020-12-02-Algorithm-Practice-1/main.swift)
 
 - - -
 - - -
