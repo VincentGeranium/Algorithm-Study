@@ -39,6 +39,7 @@
 - [201202 - 백준 온라인 저지 문제 : 10952번(A+B - 5)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-02-Algorithm-Practice-1/2020-12-02-Algorithm-Practice-1/main.swift)
 - [201203 - 백준 온라인 저지 문제 ; 10951번(A+B - 4)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-03-Algorithm-Practice-1/2020-12-03-Algorithm-Practice-1/main.swift)
 - [201205 - 백준 온라인 저지 문제 : 1110번(더하기 사이클)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-05-Algorithm-Practice-1/2020-12-05-Algorithm-Practice-1/main.swift)
+- [210126 - 백준 온라인 저지 문제 : 1541번(평균)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/beakjoon-1546/beakjoon-1546/main.swift)
 
 - - -
 - - -
