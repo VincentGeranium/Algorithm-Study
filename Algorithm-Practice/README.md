@@ -40,6 +40,7 @@
 - [201203 - 백준 온라인 저지 문제 ; 10951번(A+B - 4)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-03-Algorithm-Practice-1/2020-12-03-Algorithm-Practice-1/main.swift)
 - [201205 - 백준 온라인 저지 문제 : 1110번(더하기 사이클)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/2020-12-05-Algorithm-Practice-1/2020-12-05-Algorithm-Practice-1/main.swift)
 - [210126 - 백준 온라인 저지 문제 : 1541번(평균)](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/beakjoon-1546/beakjoon-1546/main.swift)
+- [210130 - 이것이 코딩 테스트다 : 그리디 거스름 돈](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/Greedy-Change-Example/Greedy-Change-Example/main.swift)
 
 - - -
 - - -
